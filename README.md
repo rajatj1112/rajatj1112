@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**rajatj1112/rajatj1112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Rajat** - a passionate data scientist exploring, learning and building AI use cases and agents!
 
-Here are some ideas to get you started:
+## 🚀 About Me 
+- 🔭 4+ years of experience as a data scientist. Ex-Snowflake
+- 🌱 Currently learning to get hands-on building AI agents and workflows.
+- 📫 How to reach me: [Mobile: +91 8080089410, Email - rajatj1112@gmail.com]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages**: [Python, SQL]
+- **Tools & Frameworks**: [LangChain, LangGraph, Streamlit, Cursor, Claude Code]
+- **Databases**: [PostgresSQL, MySQL, Vector(AI focused) - Snowflake, ChromaDB]
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajatj1112&show_icons=true&theme=radical)
+
+## 🔗 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/rajat-jain-choudhary-5255ba1b0/)
+
+---
+⭐️ *Feel free to reach out and collaborate on projects!*
