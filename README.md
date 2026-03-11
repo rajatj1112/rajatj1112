@@ -12,9 +12,6 @@ I'm **Rajat** - a passionate data scientist exploring, learning and building AI 
 - **Tools & Frameworks**: [LangChain, LangGraph, Streamlit, Cursor, Claude Code]
 - **Databases**: [PostgresSQL, MySQL, Vector(AI focused) - Snowflake, ChromaDB]
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajatj1112&show_icons=true&theme=radical)
-
 ## 🔗 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/rajat-jain-choudhary-5255ba1b0/)
 
